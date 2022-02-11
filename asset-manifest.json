@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/reactApp1/static/js/main.f3b3b313.js",
+    "static/js/787.fade2e9e.chunk.js": "/reactApp1/static/js/787.fade2e9e.chunk.js",
+    "static/media/Urus.jpg": "/reactApp1/static/media/Urus.b8ced712275296b866cc.jpg",
+    "index.html": "/reactApp1/index.html",
+    "main.f3b3b313.js.map": "/reactApp1/static/js/main.f3b3b313.js.map",
+    "787.fade2e9e.chunk.js.map": "/reactApp1/static/js/787.fade2e9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f3b3b313.js"
+  ]
+}
